@@ -1,6 +1,6 @@
 # vue-k-tabs
 
-[![npm](https://img.shields.io/npm/v/vue-k-tabs.svg) ![npm](https://img.shields.io/npm/dm/vue-k-tabs.svg)](https://www.npmjs.com/package/vue-k-tabs)
+[![npm](https://img.shields.io/npm/v/@kevindesousa/vue-k-tabs.svg) ![npm](https://img.shields.io/npm/dm/@kevindesousa/vue-k-tabs.svg)](https://www.npmjs.com/package/@kevindesousa/vue-k-tabs)
 [![vue2](https://img.shields.io/badge/vue-2.x-brightgreen.svg)](https://vuejs.org/)
 
 A simple tabs components
