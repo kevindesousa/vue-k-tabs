@@ -11,15 +11,14 @@ A simple tabs components
 - [Usage](#usage)
 - [Example](#example)
 
-# Installation
+## Installation
 
+```bash
+$ npm install @kevindesousa/vue-k-tabs
 ```
-npm install --save @kevindesousa/vue-k-tabs
-```
 
-## Default import
 
-Install all the components:
+## Initialisation
 
 ```javascript
 import Vue from 'vue'
@@ -28,16 +27,23 @@ import KTabs from '@kevindesousa/vue-k-tabs'
 Vue.use(KTabs)
 ```
 
-**⚠️ A css file is included when importing the package. You may have to setup your bundler to embed the css in your page.**
+
+## Utilisation
 
 
-# Usage
+```html
+     <k-tabs>
+        <k-tab name="Tab 1" :tags="[{ content:'102002'}]" :selected="true">tab1</k-tab>
+        <k-tab name="Tab 2">tab2</k-tab>
+        <k-tab name="Tab 3">tab3</k-tab>
+        <k-tab name="Tab 4">tab4</k-tab>
+     </k-tabs>
+```
 
-> TODO
+## Liens
 
-# Example
-
-> TODO
+[Github](https://github.com/kevindesousa/vue-k-tabs)
+[NPM Package](https://www.npmjs.com/package/@kevindesousa/vue-k-tabs)
 
 ---
 
